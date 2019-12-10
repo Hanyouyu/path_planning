@@ -27,6 +27,6 @@ Instructions:  <br  />
   fixed frame under global option to "/path_planner"  <br  />
   add a marker and change marker topic to "path_planner_rrt"  <br  />
 5. Open new terminal  <br  />
-  $rosrun path_planner rrt_node  <br  />
+  $rosrun path_planning rrt_node  <br  />
 
 The environment and the path will be visualized in RVIZ.   <br  />
